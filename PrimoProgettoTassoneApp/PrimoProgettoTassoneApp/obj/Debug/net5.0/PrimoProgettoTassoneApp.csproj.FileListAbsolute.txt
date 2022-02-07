@@ -32,3 +32,4 @@ C:\Users\Utente\Desktop\primawebapp-AnthonyTassone\PrimoProgettoTassoneApp\Primo
 C:\Users\Utente\Desktop\primawebapp-AnthonyTassone\PrimoProgettoTassoneApp\PrimoProgettoTassoneApp\obj\Debug\net5.0\PrimoProgettoTassoneApp.pdb
 C:\Users\Utente\Desktop\primawebapp-AnthonyTassone\PrimoProgettoTassoneApp\PrimoProgettoTassoneApp\obj\Debug\net5.0\PrimoProgettoTassoneApp.genruntimeconfig.cache
 C:\Users\Utente\Desktop\primawebapp-AnthonyTassone\PrimoProgettoTassoneApp\PrimoProgettoTassoneApp\obj\Debug\net5.0\PrimoProgettoTassoneApp.csproj.CopyComplete
+C:\Users\Utente\Desktop\primawebapp-AnthonyTassone\PrimoProgettoTassoneApp\PrimoProgettoTassoneApp\obj\Debug\net5.0\Razor\Pages\Risposta.cshtml.g.cs
