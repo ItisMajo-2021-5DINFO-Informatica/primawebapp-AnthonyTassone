@@ -9,10 +9,14 @@ namespace PrimoProgettoTassoneApp.Pages
 {
     public class RispostaModel : PageModel
     {
-        public string TestoUtente { get; set; }
-        public void OnGet(string testo)
+        public string Cognome { get; set; }
+        public string Nome { get; set; }
+        public string Testo { get; set; }
+        public void OnGet(string cognome, string nome, string testo)
         {
-            TestoUtente = testo;
+            Cognome = cognome;
+            Nome = nome;
+            Testo = testo;
         }
 
       
